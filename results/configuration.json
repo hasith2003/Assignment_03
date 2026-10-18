@@ -1,0 +1,33 @@
+{
+  "config": {
+    "seed": 3160,
+    "q1": {
+      "epochs": 10,
+      "batch_size": 50,
+      "lr": 0.1,
+      "lr_decay": 0.9
+    },
+    "q2": {
+      "epochs": 10,
+      "batch_size": 64,
+      "lr": 0.001,
+      "weight_decay": 0.0
+    },
+    "q3": {
+      "epochs": 25,
+      "batch_size": 4,
+      "lr": 0.001,
+      "momentum": 0.9,
+      "step_size": 7,
+      "gamma": 0.1
+    }
+  },
+  "environment": {
+    "python": "3.12.1",
+    "torch": "2.14.1+cpu",
+    "torchvision": "0.29.1+cpu",
+    "numpy": "1.26.1",
+    "device": "cpu",
+    "cpu_threads": 8
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "seconds_train_and_evaluation": 346.15325510001276,
+  "best_epoch": null,
+  "best_accuracy": null,
+  "parameters": 61706,
+  "trainable": 61706
+}
