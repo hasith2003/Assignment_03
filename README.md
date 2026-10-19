@@ -4,6 +4,7 @@ Jupyter notebook for CIFAR-10 manual backpropagation, MNIST CNN comparisons, and
 
 - [Notebook with results](assignment_03.ipynb)
 - [HTML preview](assignment_03.html)
+- [Submission PDF](230436X_a02.pdf)
 - [Assignment brief](en3160_assignment_03.pdf)
 - [Metrics and figures](results/)
 
